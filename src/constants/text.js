@@ -1,0 +1,3 @@
+export const about = "This website is inspired by Jocko Willink's podcast, episodes 369, 370, 371, and 372 in which he discusses how life is a game, whether you are aware of it or not. The purpose of this website is to help you identify which games you are playing, and determine the best strategies to succeed."
+
+export const intro = "Life is hard, but if you can detach yourself from emotions, you can focus on the right details and be successful. We are all playing a game, if you don't know you are playing then you are probably losing. We will now help you Identify, Prioritize, and Execute life's games."

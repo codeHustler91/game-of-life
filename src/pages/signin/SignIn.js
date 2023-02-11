@@ -3,7 +3,6 @@ import "./signin.scss";
 
 export const SignIn = () => {
   return (
-    <>
     <div className="signin-container">
       <h1>Sign In</h1>
       <div className="text-input">
@@ -18,6 +17,5 @@ export const SignIn = () => {
         <button>Sign In</button>
       </Link>
     </div>
-    </>
     );
 };
